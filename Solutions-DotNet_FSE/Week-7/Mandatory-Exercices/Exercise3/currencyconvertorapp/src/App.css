@@ -1,0 +1,61 @@
+.container {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.counter {
+    font-size: 18px;
+    display: inline-block;
+    margin-bottom: 8px;
+}
+
+.action-btn {
+    display: block;
+    margin-bottom: 6px;
+    background: #f6f8fa;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    padding: 6px 12px;
+    text-align: left;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.heading {
+    color: green;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+.convertor-form {
+    margin-top: 16px;
+}
+
+.form-row {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+label {
+    min-width: 80px;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.input-field {
+    font-size: 18px;
+    padding: 4px 8px;
+    margin-left: 8px;
+}
+
+.submit-btn {
+    margin-left: 80px;
+    padding: 4px 14px;
+    font-size: 16px;
+    background: #f6f8fa;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    cursor: pointer;
+}
